@@ -1,0 +1,119 @@
+  Fuente: OT.pdf
+  Total registros leídos: 1284
+  Registros con disciplinas válidas (ELE, INS, MEC): 1274
+  Registros descartados: 10
+
+  Ingrese el porcentaje de avance para GSC (0-100):   Ingrese el porcentaje de avance para IENG (0-100): 
+  Avance GSC:  30% → Factor pendiente: 0.70
+  Avance IENG: 10% → Factor pendiente: 0.90
+
+############################################################
+  ANÁLISIS GLOBAL (todas las plantas)
+  Factor pendiente global (promedio ponderado): 0.82
+############################################################
+
+============================================================
+  Ce.emplazam.: TODAS
+============================================================
+
+  Total de registros: 1274
+  Excluidos (no liberadas o notificadas): 866
+  Registros para cálculo (liberadas sin notificar): 408
+
+  Órdenes únicas con inicio más tardío en la semana actual (15/06/2026 - 21/06/2026): 8
+
+  --- Horas atrasadas convertidas a semanas ---
+  Total horas (liberadas sin notificar): 549.6 h
+  Semanas brutas (168h/sem): 3.27 semanas
+  Semanas ajustadas (x0.82): 2.69 semanas
+
+  --- Distribución de horas por Clase de orden (liberadas sin notificar) ---
+                Horas  Registros  % Horas
+Clase de orden                           
+ZA02            330.7        181     60.2
+ZA01            118.0         59     21.5
+ZA03            100.9        168     18.4
+
+  --- Distribución por Puesto trabajo (en semanas, 168h/sem) ---
+                Horas  Registros  Sem. brutas  Sem. ajustadas  % Horas
+Puesto trabajo                                                        
+INS            356.40        319         2.12            1.74    64.80
+ELE            149.00         68         0.89            0.73    27.10
+MEC             44.20         21         0.26            0.22     8.00
+
+  TOTAL Sem. brutas:    3.27
+  TOTAL Sem. ajustadas: 2.69
+
+
+############################################################
+  ANÁLISIS POR Ce.emplazam.
+############################################################
+
+  >> Avance GSC: 30% — Factor pendiente: 0.70
+
+============================================================
+  Ce.emplazam.: GSC
+============================================================
+
+  Total de registros: 503
+  Excluidos (no liberadas o notificadas): 338
+  Registros para cálculo (liberadas sin notificar): 165
+
+  Órdenes únicas con inicio más tardío en la semana actual (15/06/2026 - 21/06/2026): 5
+
+  --- Horas atrasadas convertidas a semanas ---
+  Total horas (liberadas sin notificar): 294.7 h
+  Semanas brutas (168h/sem): 1.75 semanas
+  Semanas ajustadas (x0.70): 1.23 semanas
+
+  --- Distribución de horas por Clase de orden (liberadas sin notificar) ---
+                Horas  Registros  % Horas
+Clase de orden                           
+ZA02            150.7         56     51.1
+ZA01             95.0         53     32.2
+ZA03             49.0         56     16.6
+
+  --- Distribución por Puesto trabajo (en semanas, 168h/sem) ---
+                Horas  Registros  Sem. brutas  Sem. ajustadas  % Horas
+Puesto trabajo                                                        
+INS            141.50         83         0.84            0.59    48.00
+ELE            137.00         66         0.82            0.57    46.50
+MEC             16.20         16         0.10            0.07     5.50
+
+  TOTAL Sem. brutas:    1.76
+  TOTAL Sem. ajustadas: 1.23
+
+  >> Avance IENG: 10% — Factor pendiente: 0.90
+
+============================================================
+  Ce.emplazam.: IENG
+============================================================
+
+  Total de registros: 771
+  Excluidos (no liberadas o notificadas): 528
+  Registros para cálculo (liberadas sin notificar): 243
+
+  Órdenes únicas con inicio más tardío en la semana actual (15/06/2026 - 21/06/2026): 3
+
+  --- Horas atrasadas convertidas a semanas ---
+  Total horas (liberadas sin notificar): 254.9 h
+  Semanas brutas (168h/sem): 1.52 semanas
+  Semanas ajustadas (x0.90): 1.37 semanas
+
+  --- Distribución de horas por Clase de orden (liberadas sin notificar) ---
+                Horas  Registros  % Horas
+Clase de orden                           
+ZA02            180.0        125     70.6
+ZA03             51.9        112     20.4
+ZA01             23.0          6      9.0
+
+  --- Distribución por Puesto trabajo (en semanas, 168h/sem) ---
+                Horas  Registros  Sem. brutas  Sem. ajustadas  % Horas
+Puesto trabajo                                                        
+INS            214.90        236         1.28            1.15    84.30
+MEC             28.00          5         0.17            0.15    11.00
+ELE             12.00          2         0.07            0.06     4.70
+
+  TOTAL Sem. brutas:    1.52
+  TOTAL Sem. ajustadas: 1.36
+
